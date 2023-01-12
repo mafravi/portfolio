@@ -1,0 +1,24 @@
+
+
+
+.home-img{
+    
+    background: url('../images/coding.png');
+    background-repeat:no-repeat;
+    background-position: right;
+    background-size: 300px 300px;
+
+
+}
+.home-text{
+    padding-right:200px ;
+}
+
+.bolg-item img{
+    height: 250px;
+}
+
+.blogs-detail img{
+    height:auto ;
+}
+
